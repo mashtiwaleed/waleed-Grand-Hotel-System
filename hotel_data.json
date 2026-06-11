@@ -1,0 +1,152 @@
+{
+    "29528": {
+        "name": "Alex Delo",
+        "reservation_number": "29528",
+        "password": "alex",
+        "room_type": "Deluxe Room",
+        "nights": 1,
+        "breakfast": "No",
+        "total_bill": 1590,
+        "checked_in": false,
+        "checked_out": false,
+        "rating": null,
+        "services": [],
+        "history": [
+            "2026-06-08 22:59:13 - Booked Deluxe Room - 1200 CZK",
+            "2026-06-08 22:59:52 - Ordered Lasagna: 240 CZK",
+            "2026-06-08 22:59:59 - Ordered French Onion Soup: 150 CZK"
+        ]
+    },
+    "57715": {
+        "name": "Sam Nano",
+        "reservation_number": "57715",
+        "password": "sam",
+        "room_type": "Standard Room",
+        "nights": 1,
+        "breakfast": "No",
+        "total_bill": 800,
+        "checked_in": false,
+        "checked_out": false,
+        "rating": null,
+        "services": [],
+        "history": [
+            "2026-06-08 23:00:48 - Booked Standard Room - 800 CZK"
+        ]
+    },
+    "69905": {
+        "name": "Sarah Smith",
+        "reservation_number": "69905",
+        "password": "sarasm",
+        "room_type": "Deluxe Room",
+        "nights": 1,
+        "breakfast": "No",
+        "total_bill": 1840.0,
+        "checked_in": false,
+        "checked_out": false,
+        "rating": null,
+        "services": [],
+        "history": [
+            "2026-06-11 00:24:09 - Booked Deluxe Room - 1200 CZK",
+            "2026-06-11 00:29:30 - Ordered Steak Frites: 320 CZK",
+            "2026-06-11 00:29:40 - Ordered Pizza: 220 CZK",
+            "2026-06-11 00:30:01 - Extra charge: 100.0 CZK"
+        ]
+    },
+    "20045": {
+        "name": "Cater Alex",
+        "reservation_number": "20045",
+        "password": "carlex",
+        "room_type": "Suite Room",
+        "nights": 1,
+        "breakfast": "No",
+        "total_bill": 2760.0,
+        "checked_in": false,
+        "checked_out": false,
+        "rating": null,
+        "services": [],
+        "history": [
+            "2026-06-11 00:39:31 - Booked Suite Room - 2000 CZK",
+            "2026-06-11 00:40:02 - Extra charge: 300.0 CZK",
+            "2026-06-11 00:40:19 - Ordered Lasagna: 240 CZK",
+            "2026-06-11 00:40:27 - Ordered Pizza: 220 CZK"
+        ]
+    },
+    "21200": {
+        "name": "Zoya Ian",
+        "reservation_number": "21200",
+        "password": "zoin",
+        "room_type": "Standard Room",
+        "nights": 4,
+        "breakfast": "Yes",
+        "total_bill": 5040,
+        "checked_in": true,
+        "checked_out": false,
+        "rating": null,
+        "services": [],
+        "history": [
+            "2026-06-11 01:25:33 - Booked Standard Room for 4 nights - 3200 CZK",
+            "2026-06-11 01:25:33 - Breakfast added - 600 CZK",
+            "2026-06-11 01:28:27 - Guest checked in",
+            "2026-06-11 01:29:12 - Swimming Pool Service: 300 CZK",
+            "2026-06-11 01:29:33 - Ordered Pizza: 220 CZK",
+            "2026-06-11 01:29:40 - Ordered Steak Frites: 320 CZK",
+            "2026-06-11 01:29:44 - Ordered French Onion Soup: 150 CZK",
+            "2026-06-11 01:29:50 - Ordered Sushi: 250 CZK"
+        ]
+    },
+    "88915": {
+        "name": "Tuna Oglu",
+        "reservation_number": "88915",
+        "password": "oglu",
+        "room_type": "Deluxe Room",
+        "nights": 10,
+        "breakfast": "Yes",
+        "total_bill": 14380,
+        "checked_in": true,
+        "checked_out": false,
+        "rating": 4.5,
+        "services": [],
+        "history": [
+            "2026-06-11 01:32:51 - Booked Deluxe Room for 10 nights - 12000 CZK",
+            "2026-06-11 01:32:51 - Breakfast added - 1500 CZK",
+            "2026-06-11 01:33:34 - Ordered French Onion Soup: 150 CZK",
+            "2026-06-11 01:33:42 - Ordered Croissant: 80 CZK",
+            "2026-06-11 01:33:50 - Ordered Fried Rice: 160 CZK",
+            "2026-06-11 01:33:55 - Ordered Lasagna: 240 CZK",
+            "2026-06-11 01:34:25 - Guest checked in",
+            "2026-06-11 01:37:02 - Guest name changed to Tuna Oglu",
+            "2026-06-11 01:44:18 - Hotel rated 4.5/5",
+            "2026-06-11 01:44:34 - Gym Membership: 250 CZK"
+        ]
+    },
+    "50401": {
+        "name": "Urek Berkan",
+        "reservation_number": "50401",
+        "password": "urekan",
+        "room_type": "Suite Room",
+        "nights": 6,
+        "breakfast": "Yes",
+        "total_bill": 14880.0,
+        "checked_in": true,
+        "checked_out": true,
+        "rating": 5.0,
+        "services": [
+            "Spa Service",
+            "Gym Membership"
+        ],
+        "history": [
+            "2026-06-11 01:58:47 - Booked Suite Room for 6 nights - 12000 CZK",
+            "2026-06-11 01:58:47 - Breakfast added - 900 CZK",
+            "2026-06-11 02:00:51 - Added service: Spa Service - 600 CZK",
+            "2026-06-11 02:00:58 - Added service: Gym Membership - 250 CZK",
+            "2026-06-11 02:01:29 - Ordered Pizza: 220 CZK",
+            "2026-06-11 02:01:35 - Ordered Lasagna: 240 CZK",
+            "2026-06-11 02:01:46 - Ordered Steak Frites: 320 CZK",
+            "2026-06-11 02:01:53 - Ordered French Onion Soup: 150 CZK",
+            "2026-06-11 02:02:01 - Guest checked in",
+            "2026-06-11 02:02:12 - Hotel rated 5.0/5",
+            "2026-06-11 02:02:31 - Extra charge: 200.0 CZK",
+            "2026-06-11 02:03:01 - Guest checked out"
+        ]
+    }
+}
